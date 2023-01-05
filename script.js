@@ -1,6 +1,6 @@
 'use strict';
 
-// Deklarerar element i variabler
+// Deklarerar element i variabler.
 const player0 = document.querySelector('.player--0');
 const player1 = document.querySelector('.player--1');
 
